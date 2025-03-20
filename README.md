@@ -63,4 +63,4 @@ SejongCountry는 지방에 거주하는 어르신들을 위한 시스템입니�
 |---|:---:|:---:|:---:|:---:|
 |프로필|<img width="90px" height="90px" src="https://avatars.githubusercontent.com/u/102985015?v=4" />||<img width="90px" height="90px" src="https://avatars.githubusercontent.com/u/102985637?v=4" />||
 |역할|Android|Android|Back-end|Back-end|
-|깃허브||[TigerPaark](https://github.com/TigerPaark)|||
+|깃허브|[mojong2](https://github.com/mojong2)|[TigerPaark](https://github.com/TigerPaark)|[MoonMinHyuk1](https://github.com/MoonMinHyuk1)||
